@@ -24,13 +24,13 @@
 
 ### 📊 Estatísticas de Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcassanego&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobonzao&layout=compact&theme=tokyonight)](https://github.com/joaobonzao)
 
 ---
 
 ### 📫 Contato
 
-- ✉️ **Gmail:** [joaopcassanego@gmail.com](mailto:joaopcassanego@gmail.com)
+- ✉️ **Gmail:** [joaocursoti@gmail.com](mailto:joaocursoti@gmail.com)
 
 ---
 
