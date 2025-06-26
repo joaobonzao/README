@@ -5,6 +5,13 @@
 </p>
 
 ---
+| Linguagem  | Projetos Utilizando |
+| ---------- | ------------------- |
+| Java       | 5                   |
+| HTML       | 8                   |
+| CSS        | 7                   |
+| JavaScript | 6                   |
+| Outras     | 2                   |
 
 ### 👨‍🎓 Sobre mim
 
@@ -18,3 +25,6 @@ HTML
 CSS
 JavaScript
 e mais...
+```
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-animation" /> </p>
+<p align="center">Obrigado pela visita ao meu perfil! ⭐</p> ```
