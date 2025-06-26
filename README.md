@@ -5,26 +5,41 @@
 </p>
 
 ---
-| Linguagem  | Projetos Utilizando |
-| ---------- | ------------------- |
-| Java       | 5                   |
-| HTML       | 8                   |
-| CSS        | 7                   |
-| JavaScript | 6                   |
-| Outras     | 2                   |
 
 ### 👨‍🎓 Sobre mim
 
-- 📚 Atualmente estou estudando e me aperfeiçoando como desenvolvedor.
-- 💼 No momento, não estou trabalhando, mas sempre praticando e desenvolvendo projetos.
-- 💻 Linguagens que uso até agora:
+- 📚 Atualmente estudando para me tornar um desenvolvedor completo
+- 💼 No momento, não estou trabalhando, mas estou sempre criando novos projetos
+- 💻 Já utilizei diversas linguagens, incluindo:
 
-```
-Java
-HTML
-CSS
-JavaScript
-e mais...
-```
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-animation" /> </p>
-<p align="center">Obrigado pela visita ao meu perfil! ⭐</p> ```
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" />
+</div>
+
+---
+
+### 📊 Estatísticas de Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcassanego&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Contato
+
+- ✉️ **Gmail:** [joaopcassanego@gmail.com](mailto:joaopcassanego@gmail.com)
+
+---
+
+### ✨ Animação para encerrar com estilo!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-animation" />
+</p>
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! ⭐</p>
