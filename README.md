@@ -8,7 +8,7 @@
 
 ### 👨‍🎓 Sobre mim
 
-- 📚 Atualmente estudando para me tornar um desenvolvedor completo
+- 📚 Atualmente estudando no colegio ULBRA São Lucas para me tornar um desenvolvedor completo
 - 💼 No momento, não estou trabalhando, mas estou sempre criando novos projetos
 - 💻 Já utilizei diversas linguagens, incluindo:
 
@@ -34,7 +34,6 @@
 
 ---
 
-### ✨ Animação para encerrar com estilo!
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-animation" />
